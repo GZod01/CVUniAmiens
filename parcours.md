@@ -8,18 +8,14 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**UniLaSalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en I1
+* Cours : Mathématique, Physique, Electronique, Conception Projet Prototypage, Informatique, Anglais, Espagnol
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac Mathémathiques, Physique Chimie, mention bien, Gaillon, 27600, FRANCE
 
 ## Expériences
 
